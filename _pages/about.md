@@ -15,12 +15,11 @@ My primary research interest is in Computer Vision especially Group Activity Rec
 
 ## Education
 - [Pohang University of Science and Technology (POSTECH)](https://postech.ac.kr)
-<font size="3">
-- Feb. 2019 - current \\
-Ph.D. student in Computer Science and Engineering \\
-Advisor: Professor [Suha Kwak](http://cvlab.postech.ac.kr/~suhakwak) \\
-GPA: 4.0/4.3
-</font>
+<font size="3">Feb. 2019 - current</font>
+<br>Ph.D. student in Computer Science and Engineering
+<br>Advisor: Professor <a href="https://cvlab.postech.ac.kr/~suhakwak">Suha Kwak</a>
+<br>GPA: 4.0/4.3
+
 
 - [Carnegie Mellon University (CMU)](https://www.cmu.edu/), Pittsburgh, PA, USA
 <font size="3">
