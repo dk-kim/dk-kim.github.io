@@ -14,25 +14,33 @@ under the supervision of professor [Suha Kwak](http://cvlab.postech.ac.kr/~suhak
 My primary research interest is in Computer Vision especially Group Activity Recognition and its applications. 
 
 ## Education
-- [Pohang University of Science and Technology (POSTECH)](https://postech.ac.kr) \\
-<font size="3">Feb. 2019 - current</font> \\
+- [Pohang University of Science and Technology (POSTECH)](https://postech.ac.kr)
+<font size="3">
+- Feb. 2019 - current \\
 Ph.D. student in Computer Science and Engineering \\
 Advisor: Professor [Suha Kwak](http://cvlab.postech.ac.kr/~suhakwak) \\
 GPA: 4.0/4.3
+</font>
 
 - [Carnegie Mellon University (CMU)](https://www.cmu.edu/), Pittsburgh, PA, USA
-<font size="3">Aug. 2019 - Feb. 2020</font> \\
+<font size="3">
+Aug. 2019 - Feb. 2020 \\
 Visiting student in Language Technologies Institute \\
 IITP (Institute of Information & Communications Technology Planning & Evaluation) Executive Education Program
+</font>
 
 - [Korea Advanced Institute of Science and Technology (KAIST)](https://www.kaist.ac.kr/en/) \\
-<font size="3">Mar. 2013 - Feb. 2015</font> \\
+<font size="3">
+Mar. 2013 - Feb. 2015 \\
 M.S. student in Industrial & Systems Engineering \\
 Advisor: Professor Kyung Chul Chae \\
 GPA: 3.74/4.3 (93.77/100)
+</font>
 
 - [Korea Advanced Institute of Science and Technology (KAIST)](https://www.kaist.ac.kr/en/) \\
-<font size="3">Feb. 2008 - Feb. 2013</font> \\
+<font size="3">
+Feb. 2008 - Feb. 2013 \\
 B.S. in Biological Science \\
 B.S. in Industrial & Systems Engineering \\
 GPA: 3.64/4.3 (92.66/100)
+</font>
