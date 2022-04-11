@@ -8,29 +8,29 @@ redirect_from:
   - /about.html
 ---
 
-I am a graduate student in the Computer Science and Engineering Ph.D. program at POSTECH. 
+I am a graduate student in the Department of Computer Science and Engineering Ph.D. program at POSTECH. 
 I am a member of [Computer Vision Lab](https://cvlab.postech.ac.kr) 
 under the supervision of professor [Suha Kwak](http://cvlab.postech.ac.kr/~suhakwak).
-My primary research interest is in Computer Vision especially Group Activity Recognition and its applications. 
+My primary research interest is in computer vision especially group activity recognition and its applications. 
 
 ## Education
-- [Pohang University of Science and Technology (POSTECH)](https://postech.ac.kr) \hfill <font size="3">Feb. 2019 - current</font>
+- [Pohang University of Science and Technology (POSTECH)](https://postech.ac.kr) <font size="3">Pohang, Korea, Feb. 2019 - current</font>
 <br>Ph.D. student in Computer Science and Engineering
 <br>Advisor: Professor <a href="https://cvlab.postech.ac.kr/~suhakwak">Suha Kwak</a>
 <br>GPA: 4.0/4.3
 
-- [Carnegie Mellon University (CMU)](https://www.cmu.edu/), Pittsburgh, PA, USA <font size="3">Aug. 2019 - Feb. 2020</font>
+- [Carnegie Mellon University (CMU)](https://www.cmu.edu/) <font size="3">Pittsburgh, PA, USA, Aug. 2019 - Feb. 2020</font>
 <br>Visiting student in Language Technologies Institute
 <br>IITP (Institute of Information & Communications Technology Planning & Evaluation) Executive Education Program
 
 
-- [Korea Advanced Institute of Science and Technology (KAIST)](https://www.kaist.ac.kr/en/) <font size="3">Mar. 2013 - Feb. 2015</font>
+- [Korea Advanced Institute of Science and Technology (KAIST)](https://www.kaist.ac.kr/en/) <font size="3">Daejeon, Korea, Mar. 2013 - Feb. 2015</font>
 <br> M.S. student in Industrial & Systems Engineering 
 <br> Advisor: Professor Kyung Chul Chae 
 <br> GPA: 3.74/4.3 (93.77/100)
 
 
-- [Korea Advanced Institute of Science and Technology (KAIST)](https://www.kaist.ac.kr/en/) <font size="3"> Feb. 2008 - Feb. 2013 </font>
+- [Korea Advanced Institute of Science and Technology (KAIST)](https://www.kaist.ac.kr/en/) <font size="3">Daejeon, Korea, Feb. 2008 - Feb. 2013 </font>
 <br> B.S. in Biological Science 
 <br> B.S. in Industrial & Systems Engineering 
 <br> GPA: 3.64/4.3 (92.66/100)
