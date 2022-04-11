@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "About Me"
+excerpt: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -34,3 +34,24 @@ My primary research interest is in Computer Vision especially Group Activity Rec
 <br> B.S. in Biological Science 
 <br> B.S. in Industrial & Systems Engineering 
 <br> GPA: 3.64/4.3 (92.66/100)
+
+
+## Conference Publications
+- **Detector-Free Weakly Supervised Group Activity Recognition** \\
+<a href="https://arxiv.org/abs/2204.02139" style="color: #7289da; text-decoration: none;">[paper]</a> \\
+<u>Dongkeun Kim</u>, Jinsung Lee, Minsu Cho, Suha Kwak \\
+<span style="color:darkred">**CVPR**</span> 2022, (acceptance = 2067 / 8161 = 25.33%) 
+
+- **Neural Contrast Enhancement of CT Image** \\
+<a href="https://openaccess.thecvf.com/content/WACV2021/papers/Seo_Neural_Contrast_Enhancement_of_CT_Image_WACV_2021_paper.pdf" style="color: #7289da; text-decoration: none;">[paper]</a> \\
+Minkyo Seo, <u>Dongkeun Kim</u>, Kyungmoon Lee, Seunghoon Hong, Jae Seok Bae, Jung Hoon Kim, Suha Kwak \\
+<span style="color:darkred">**WACV**</span> 2021
+
+
+## Honors & Awards
+- <a> **National Scholarship for Science and Engineering** </a>, KOSAF (2018 - 2011, 2013 - 2014)
+
+
+## Work Experiences
+- <a> **Hanbat National University** </a>, <i> Lecturer </i>, Daejeon, Korea (Mar. 2018 - Dec. 2018)
+- <a> **SIMNET** </a>, <i> Developer </i>, Daejeon, Korea (Feb. 2015 - Feb. 2018)
