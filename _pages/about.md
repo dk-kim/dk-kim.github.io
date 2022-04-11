@@ -14,7 +14,7 @@ under the supervision of professor [Suha Kwak](http://cvlab.postech.ac.kr/~suhak
 My primary research interest is in Computer Vision especially Group Activity Recognition and its applications. 
 
 ## Education
-- [Pohang University of Science and Technology (POSTECH)](https://postech.ac.kr) <font size="3">Feb. 2019 - current</font>
+- [Pohang University of Science and Technology (POSTECH)](https://postech.ac.kr) \hfill <font size="3">Feb. 2019 - current</font>
 <br>Ph.D. student in Computer Science and Engineering
 <br>Advisor: Professor <a href="https://cvlab.postech.ac.kr/~suhakwak">Suha Kwak</a>
 <br>GPA: 4.0/4.3
@@ -40,7 +40,7 @@ My primary research interest is in Computer Vision especially Group Activity Rec
 - **Detector-Free Weakly Supervised Group Activity Recognition** \\
 <a href="https://arxiv.org/abs/2204.02139" style="color: #7289da; text-decoration: none;">[paper]</a> \\
 <u>Dongkeun Kim</u>, Jinsung Lee, Minsu Cho, Suha Kwak \\
-<span style="color:darkred">**CVPR**</span> 2022, (acceptance = 2067 / 8161 = 25.33%) 
+<span style="color:darkred">**CVPR**</span> 2022 (acceptance = 2067 / 8161 = 25.33%) 
 
 - **Neural Contrast Enhancement of CT Image** \\
 <a href="https://openaccess.thecvf.com/content/WACV2021/papers/Seo_Neural_Contrast_Enhancement_of_CT_Image_WACV_2021_paper.pdf" style="color: #7289da; text-decoration: none;">[paper]</a> \\
@@ -49,9 +49,9 @@ Minkyo Seo, <u>Dongkeun Kim</u>, Kyungmoon Lee, Seunghoon Hong, Jae Seok Bae, Ju
 
 
 ## Honors & Awards
-- <a> **National Scholarship for Science and Engineering** </a>, KOSAF (2018 - 2011, 2013 - 2014)
+- **National Scholarship for Science and Engineering**, KOSAF (2018 - 2011, 2013 - 2014)
 
 
 ## Work Experiences
-- <a> **Hanbat National University** </a>, <i> Lecturer </i>, Daejeon, Korea (Mar. 2018 - Dec. 2018)
-- <a> **SIMNET** </a>, <i> Developer </i>, Daejeon, Korea (Feb. 2015 - Feb. 2018)
+- **Hanbat National University**, Lecturer, Daejeon, Korea (Mar. 2018 - Dec. 2018)
+- **SIMNET**, Developer, Daejeon, Korea (Feb. 2015 - Feb. 2018)
