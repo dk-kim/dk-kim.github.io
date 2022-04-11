@@ -49,9 +49,9 @@ Minkyo Seo, <u>Dongkeun Kim</u>, Kyungmoon Lee, Seunghoon Hong, Jae Seok Bae, Ju
 
 
 ## Honors & Awards
-- **National Scholarship for Science and Engineering**, KOSAF (2018 - 2011, 2013 - 2014)
+- **National Scholarship for Science and Engineering** KOSAF (2018 - 2011, 2013 - 2014)
 
 
 ## Work Experiences
-- **Hanbat National University**, Lecturer, Daejeon, Korea (Mar. 2018 - Dec. 2018)
-- **SIMNET**, Developer, Daejeon, Korea (Feb. 2015 - Feb. 2018)
+- **Hanbat National University** Lecturer, Daejeon, Korea (Mar. 2018 - Dec. 2018)
+- **SIMNET** Developer, Daejeon, Korea (Feb. 2015 - Feb. 2018)
