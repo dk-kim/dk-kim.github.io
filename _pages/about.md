@@ -14,7 +14,7 @@ under the supervision of professor [Suha Kwak](http://cvlab.postech.ac.kr/~suhak
 My primary research interest is in computer vision especially group activity recognition and its applications. 
 
 ## News
-Mar. 2022. One paper accepted to **CVPR 2022** \\
+Mar. 2022. One paper accepted to **CVPR 2022**
 
 ## Education
 - [Pohang University of Science and Technology (POSTECH)](https://postech.ac.kr) <font size="3">Pohang, Korea, Feb. 2019 - current</font>
