@@ -52,7 +52,7 @@ Minkyo Seo, <u>Dongkeun Kim</u>, Kyungmoon Lee, Seunghoon Hong, Jae Seok Bae, Ju
 
 
 ## Honors & Awards
-- **National Scholarship for Science and Engineering** KOSAF (2018 - 2011, 2013 - 2014)
+- **National Scholarship for Science and Engineering** KOSAF (2008 - 2011, 2013 - 2014)
 
 
 ## Academic Services
