@@ -56,7 +56,7 @@ Minkyo Seo, <u>Dongkeun Kim</u>, Kyungmoon Lee, Seunghoon Hong, Jae Seok Bae, Ju
 
 
 ## Academic Services
-- Reviewer: WACV 2022, ACCV 2022
+- Reviewer: WACV 2022-2023, ACCV 2022
 
 
 ## Work Experiences
