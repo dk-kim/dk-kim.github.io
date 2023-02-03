@@ -14,6 +14,7 @@ under the supervision of professor [Suha Kwak](http://cvlab.postech.ac.kr/~suhak
 My primary research interest is in computer vision especially group activity recognition and its applications. 
 
 ## News
+Jan. 2023. I won BK21 outstanding paper award. 
 Mar. 2022. One paper accepted to **CVPR 2022**
 
 ## Education
@@ -52,6 +53,7 @@ Minkyo Seo, <u>Dongkeun Kim</u>, Kyungmoon Lee, Seunghoon Hong, Jae Seok Bae, Ju
 
 
 ## Honors & Awards
+- **BK21 outstanding paper award** (2023)
 - **National Scholarship for Science and Engineering** KOSAF (2008 - 2011, 2013 - 2014)
 
 
