@@ -14,7 +14,7 @@ under the supervision of professor [Suha Kwak](http://cvlab.postech.ac.kr/~suhak
 My primary research interest is in computer vision especially group activity recognition and its applications. 
 
 ## News
-Jan. 2023. I won BK21 outstanding paper award. 
+Jan. 2023. I won BK21 outstanding paper award. \
 Mar. 2022. One paper accepted to **CVPR 2022**
 
 ## Education
