@@ -42,12 +42,16 @@ Mar. 2022. One paper accepted to **CVPR 2022**
 
 ## Publications
 - **Towards More Practical Group Activity Detection: A New Benchmark and Model** \\
-<a href="https://arxiv.org/abs/2312.02878" style="color: #7289da; text-decoration: none;">[paper]</a> \\
+<a href="https://arxiv.org/abs/2312.02878" style="color: #7289da; text-decoration: none;">[paper]</a>
+<a href="https://dk-kim.github.io/CAFE" style="color: #7289da; text-decoration: none;">[project page]</a>
+<a href="https://github.com/dk-kim/CAFE_codebase" style="color: #7289da; text-decoration: none;">[code]</a> \\
 <u>Dongkeun Kim</u>, Youngkil Song, Minsu Cho, Suha Kwak \\
 <span style="color:darkred">**arXiv**</span> 2023
 
 - **Detector-Free Weakly Supervised Group Activity Recognition** \\
-<a href="https://arxiv.org/abs/2204.02139" style="color: #7289da; text-decoration: none;">[paper]</a> \\
+<a href="https://arxiv.org/abs/2204.02139" style="color: #7289da; text-decoration: none;">[paper]</a>
+<a href="https://cvlab.postech.ac.kr/research/DFWSGAR" style="color: #7289da; text-decoration: none;">[project page]</a>
+<a href="https://github.com/dk-kim/DFWSGAR" style="color: #7289da; text-decoration: none;">[code]</a> \\
 <u>Dongkeun Kim</u>, Jinsung Lee, Minsu Cho, Suha Kwak \\
 <span style="color:darkred">**CVPR**</span> 2022 (acceptance = 2067 / 8161 = 25.33%) 
 
