@@ -42,21 +42,21 @@ Mar. 2022. One paper accepted to **CVPR 2022**
 
 ## Publications
 - **Towards More Practical Group Activity Detection: A New Benchmark and Model** \\
-<a href="https://arxiv.org/abs/2312.02878" style="color: #7289da; text-decoration: none;">[paper]</a>
-<a href="https://dk-kim.github.io/CAFE" style="color: #7289da; text-decoration: none;">[project page]</a>
-<a href="https://github.com/dk-kim/CAFE_codebase" style="color: #7289da; text-decoration: none;">[code]</a> \\
+<a href="https://arxiv.org/abs/2312.02878" style="color: #7289da; text-decoration: none;">[Paper]</a>
+<a href="https://dk-kim.github.io/CAFE" style="color: #7289da; text-decoration: none;">[Project Page]</a>
+<a href="https://github.com/dk-kim/CAFE_codebase" style="color: #7289da; text-decoration: none;">[Code]</a> \\
 <u>Dongkeun Kim</u>, Youngkil Song, Minsu Cho, Suha Kwak \\
 <span style="color:darkred">**arXiv**</span> 2023
 
 - **Detector-Free Weakly Supervised Group Activity Recognition** \\
-<a href="https://arxiv.org/abs/2204.02139" style="color: #7289da; text-decoration: none;">[paper]</a>
-<a href="https://cvlab.postech.ac.kr/research/DFWSGAR" style="color: #7289da; text-decoration: none;">[project page]</a>
-<a href="https://github.com/dk-kim/DFWSGAR" style="color: #7289da; text-decoration: none;">[code]</a> \\
+<a href="https://arxiv.org/abs/2204.02139" style="color: #7289da; text-decoration: none;">[Paper]</a>
+<a href="https://cvlab.postech.ac.kr/research/DFWSGAR" style="color: #7289da; text-decoration: none;">[Project Page]</a>
+<a href="https://github.com/dk-kim/DFWSGAR" style="color: #7289da; text-decoration: none;">[Code]</a> \\
 <u>Dongkeun Kim</u>, Jinsung Lee, Minsu Cho, Suha Kwak \\
 <span style="color:darkred">**CVPR**</span> 2022 (acceptance = 2067 / 8161 = 25.33%) 
 
 - **Neural Contrast Enhancement of CT Image** \\
-<a href="https://openaccess.thecvf.com/content/WACV2021/papers/Seo_Neural_Contrast_Enhancement_of_CT_Image_WACV_2021_paper.pdf" style="color: #7289da; text-decoration: none;">[paper]</a> \\
+<a href="https://openaccess.thecvf.com/content/WACV2021/papers/Seo_Neural_Contrast_Enhancement_of_CT_Image_WACV_2021_paper.pdf" style="color: #7289da; text-decoration: none;">[Paper]</a> \\
 Minkyo Seo, <u>Dongkeun Kim</u>, Kyungmoon Lee, Seunghoon Hong, Jae Seok Bae, Jung Hoon Kim, Suha Kwak \\
 <span style="color:darkred">**WACV**</span> 2021
 
