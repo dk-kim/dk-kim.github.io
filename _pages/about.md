@@ -40,7 +40,12 @@ Mar. 2022. One paper accepted to **CVPR 2022**
 <br> GPA: 3.64/4.3 (92.66/100)
 
 
-## Conference Publications
+## Publications
+- **Towards More Practical Group Activity Detection: A New Benchmark and Model** \\
+<a href="https://arxiv.org/abs/2312.02878" style="color: #7289da; text-decoration: none;">[paper]</a> \\
+<u>Dongkeun Kim</u>, Youngkil Song, Minsu Cho, Suha Kwak \\
+<span style="color:darkred">**arXiv**</span> 2023
+
 - **Detector-Free Weakly Supervised Group Activity Recognition** \\
 <a href="https://arxiv.org/abs/2204.02139" style="color: #7289da; text-decoration: none;">[paper]</a> \\
 <u>Dongkeun Kim</u>, Jinsung Lee, Minsu Cho, Suha Kwak \\
