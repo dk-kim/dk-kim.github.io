@@ -42,7 +42,7 @@ Mar. 2022. One paper accepted to **CVPR 2022**
 
 ## Publications
 - **Towards More Practical Group Activity Detection: A New Benchmark and Model** \\
-<a href="https://arxiv.org/abs/2312.02878" style="color: #7289da; text-decoration: none;">[Paper]</a>
+<a href="https://arxiv.org/abs/2312.02878" style="color: #7289da; text-decoration: none;">[Paper]</a>
 <a href="https://dk-kim.github.io/CAFE" style="color: #7289da; text-decoration: none;">[Project Page]</a>
 <a href="https://github.com/dk-kim/CAFE_codebase" style="color: #7289da; text-decoration: none;">[Code]</a> \\
 <u>Dongkeun Kim</u>, Youngkil Song, Minsu Cho, Suha Kwak \\
