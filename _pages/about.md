@@ -67,7 +67,8 @@ Minkyo Seo, <u>Dongkeun Kim</u>, Kyungmoon Lee, Seunghoon Hong, Jae Seok Bae, Ju
 
 
 ## Academic Services
-- **Reviewer**: CVPR 2024, ICCV 2023, WACV 2022-2024, ACCV 2022
+- **Conference Reviewer**: CVPR 2024, ICCV 2023, WACV 2022-2024, ACCV 2022
+- **Journal Reviewer**: Image and Vision Computing 
 
 
 ## Work Experiences
