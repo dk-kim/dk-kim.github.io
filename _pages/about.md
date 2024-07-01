@@ -14,8 +14,9 @@ under the supervision of professor [Suha Kwak](http://cvlab.postech.ac.kr/~suhak
 My primary research interest is in computer vision especially group activity recognition and its applications. 
 
 ## News
+July. 2024. Two papers accepted to **ECCV 2024**. \
 Jan. 2023. I won BK21 outstanding paper award. \
-Mar. 2022. One paper accepted to **CVPR 2022**
+Mar. 2022. One paper accepted to **CVPR 2022**.
 
 ## Education
 - [Pohang University of Science and Technology (POSTECH)](https://postech.ac.kr) <font size="3">Pohang, Korea, Feb. 2019 - current</font>
@@ -41,12 +42,19 @@ Mar. 2022. One paper accepted to **CVPR 2022**
 
 
 ## Publications
+- **Online Temporal Localization with Memory-Augmented Transformer** \\
+<a href="https://dk-kim.github.io/" style="color: #7289da; text-decoration: none;">[Paper]</a>
+<a href="https://dk-kim.github.io/" style="color: #7289da; text-decoration: none;">[Project Page]</a>
+<a href="https://dk-kim.github.io/" style="color: #7289da; text-decoration: none;">[Code]</a> \\
+Youngkil Song*, <u>Dongkeun Kim*</u>, Minsu Cho, Suha Kwak \\
+<span style="color:darkred">**ECCV**</span> 2024
+
 - **Towards More Practical Group Activity Detection: A New Benchmark and Model** \\
 <a href="https://arxiv.org/abs/2312.02878" style="color: #7289da; text-decoration: none;">[Paper]</a>
 <a href="https://dk-kim.github.io/CAFE" style="color: #7289da; text-decoration: none;">[Project Page]</a>
 <a href="https://github.com/dk-kim/CAFE_codebase" style="color: #7289da; text-decoration: none;">[Code]</a> \\
 <u>Dongkeun Kim</u>, Youngkil Song, Minsu Cho, Suha Kwak \\
-<span style="color:darkred">**arXiv**</span> 2023
+<span style="color:darkred">**ECCV**</span> 2024
 
 - **Detector-Free Weakly Supervised Group Activity Recognition** \\
 <a href="https://arxiv.org/abs/2204.02139" style="color: #7289da; text-decoration: none;">[Paper]</a>
@@ -67,7 +75,7 @@ Minkyo Seo, <u>Dongkeun Kim</u>, Kyungmoon Lee, Seunghoon Hong, Jae Seok Bae, Ju
 
 
 ## Academic Services
-- **Conference Reviewer**: CVPR 2024, ICCV 2023, WACV 2022-2024, ACCV 2022
+- **Conference Reviewer**: ECCV 2024, CVPR 2024, ICCV 2023, WACV 2022-2024, ACCV 2022
 - **Journal Reviewer**: Image and Vision Computing 
 
 
