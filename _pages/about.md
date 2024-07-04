@@ -47,14 +47,14 @@ Mar. 2022. One paper is accepted in **CVPR 2022**.
 <a href="https://dk-kim.github.io/" style="color: #7289da; text-decoration: none;">[Project Page]</a>
 <a href="https://dk-kim.github.io/" style="color: #7289da; text-decoration: none;">[Code]</a> \\
 Youngkil Song*, <u>Dongkeun Kim*</u>, Minsu Cho, Suha Kwak \\
-<span style="color:darkred">**ECCV**</span> 2024
+<span style="color:darkred">**ECCV**</span> 2024 (acceptance = 2395 / 8585 = 27.9%) 
 
 - **Towards More Practical Group Activity Detection: A New Benchmark and Model** \\
 <a href="https://arxiv.org/abs/2312.02878" style="color: #7289da; text-decoration: none;">[Paper]</a>
 <a href="https://dk-kim.github.io/CAFE" style="color: #7289da; text-decoration: none;">[Project Page]</a>
 <a href="https://github.com/dk-kim/CAFE_codebase" style="color: #7289da; text-decoration: none;">[Code]</a> \\
 <u>Dongkeun Kim</u>, Youngkil Song, Minsu Cho, Suha Kwak \\
-<span style="color:darkred">**ECCV**</span> 2024
+<span style="color:darkred">**ECCV**</span> 2024 (acceptance = 2395 / 8585 = 27.9%) 
 
 - **Detector-Free Weakly Supervised Group Activity Recognition** \\
 <a href="https://arxiv.org/abs/2204.02139" style="color: #7289da; text-decoration: none;">[Paper]</a>
