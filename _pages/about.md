@@ -42,7 +42,7 @@ Mar. 2022. One paper is accepted in **CVPR 2022**.
 
 
 ## Publications
-- **Online Temporal Localization with Memory-Augmented Transformer** \\
+- **Online Temporal Action Localization with Memory-Augmented Transformer** \\
 <a href="https://dk-kim.github.io/" style="color: #7289da; text-decoration: none;">[Paper]</a>
 <a href="https://dk-kim.github.io/" style="color: #7289da; text-decoration: none;">[Project Page]</a>
 <a href="https://dk-kim.github.io/" style="color: #7289da; text-decoration: none;">[Code]</a> \\
