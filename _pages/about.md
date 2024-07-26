@@ -44,8 +44,8 @@ Mar. 2022. One paper is accepted in **CVPR 2022**.
 ## Publications
 - **Online Temporal Action Localization with Memory-Augmented Transformer** \\
 <a href="https://dk-kim.github.io/" style="color: #7289da; text-decoration: none;">[Paper]</a>
-<a href="https://dk-kim.github.io/" style="color: #7289da; text-decoration: none;">[Project Page]</a>
-<a href="https://dk-kim.github.io/" style="color: #7289da; text-decoration: none;">[Code]</a> \\
+<a href="https://cvlab.postech.ac.kr/research/MATR/" style="color: #7289da; text-decoration: none;">[Project Page]</a>
+<a href="https://github.com/skhcjh231/MATR_codebase" style="color: #7289da; text-decoration: none;">[Code]</a> \\
 Youngkil Song*, <u>Dongkeun Kim*</u>, Minsu Cho, Suha Kwak \\
 <span style="color:darkred">**ECCV**</span> 2024 (acceptance = 2395 / 8585 = 27.9%) 
 
