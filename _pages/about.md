@@ -14,11 +14,11 @@ under the supervision of professor [Suha Kwak](http://cvlab.postech.ac.kr/~suhak
 My primary research interest is in computer vision especially group activity recognition, robotics and its applications. 
 
 ## News
-Aug. 2025. I have started a new position as a Postdoctoral researcher at POSTECH Graduate School of AI. \
-June. 2025. I am glad to announce that I successfully defended my Ph.D. dissertation, "Compositional Reasoning Approaches to Group Activity Understanding". \
-July. 2024. Two papers are accepted in **ECCV 2024**. \
-Jan. 2023. I won BK21 outstanding paper award. \
-Mar. 2022. One paper is accepted in **CVPR 2022**.
+[Aug. 2025] I have started a new position as a Postdoctoral researcher at POSTECH Graduate School of AI. \
+[June. 2025] I am glad to announce that I successfully defended my Ph.D. dissertation, "Compositional Reasoning Approaches to Group Activity Understanding". \
+[July. 2024] Two papers are accepted in **ECCV 2024**. \
+[Jan. 2023] I won BK21 outstanding paper award. \
+[Mar. 2022] One paper is accepted in **CVPR 2022**.
 
 ## Education
 - [Pohang University of Science and Technology (POSTECH)](https://postech.ac.kr) <font size="3">Pohang, Korea, Feb. 2019 - Aug. 2025</font>
@@ -84,5 +84,6 @@ Minkyo Seo, <u>Dongkeun Kim</u>, Kyungmoon Lee, Seunghoon Hong, Jae Seok Bae, Ju
 ## Work Experiences
 - **Hanbat National University** Lecturer, Daejeon, Korea (Mar. 2018 - Dec. 2018)
 - **SIMNET** Developer, Daejeon, Korea (Feb. 2015 - Feb. 2018)
+
 
 
