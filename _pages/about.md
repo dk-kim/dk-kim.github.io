@@ -14,6 +14,7 @@ under the supervision of professor [Suha Kwak](http://cvlab.postech.ac.kr/~suhak
 My primary research interest is in computer vision especially group activity recognition, robotics and its applications. 
 
 ## News
+[Sep. 2025] One paper is accepted in **NeurIPS 2025**.
 [Aug. 2025] I have started a new position as a **Postdoctoral researcher** at POSTECH Graduate School of AI. \
 [June. 2025] I am glad to announce that I successfully defended my **Ph.D. dissertation**, "Compositional Reasoning Approaches to Group Activity Understanding". \
 [July. 2024] Two papers are accepted in **ECCV 2024**. \
@@ -44,6 +45,10 @@ My primary research interest is in computer vision especially group activity rec
 
 
 ## Publications
+- **Part-Aware Bottom-Up Group Reasoning for Fine-Grained Social Interaction Detection** \\
+<u>Dongkeun Kim</u>, Minsu Cho, Suha Kwak \\
+<span style="color:darkred">**NeurIPS**</span> 2025 (acceptance = 5290 / 21575 = 24.52%) 
+
 - **Online Temporal Action Localization with Memory-Augmented Transformer** \\
 <a href="https://arxiv.org/abs/2408.02957" style="color: #7289da; text-decoration: none;">[Paper]</a>
 <a href="https://cvlab.postech.ac.kr/research/MATR/" style="color: #7289da; text-decoration: none;">[Project Page]</a>
@@ -84,6 +89,7 @@ Minkyo Seo, <u>Dongkeun Kim</u>, Kyungmoon Lee, Seunghoon Hong, Jae Seok Bae, Ju
 ## Work Experiences
 - **Hanbat National University** Lecturer, Daejeon, Korea (Mar. 2018 - Dec. 2018)
 - **SIMNET** Developer, Daejeon, Korea (Feb. 2015 - Feb. 2018)
+
 
 
 
