@@ -23,19 +23,19 @@ My primary research interest is in computer vision especially group activity rec
 
 
 ## Work Experience
-- Postdoctoral researcher at [POSTECH](https://postech.ac.kr), <font size="3">Pohang, Korea</font> \\
+- Postdoctoral researcher at [POSTECH](https://postech.ac.kr), <font size="3">Pohang, Korea</font> \
   <br> Graduate School of AI
   <br> Aug. 2025 - Current
-- Lecturer for future scholars at [POSTECH](https://postech.ac.kr), <font size="3">Pohang, Korea</font> \\
+- Lecturer for future scholars at [POSTECH](https://postech.ac.kr), <font size="3">Pohang, Korea</font> \
   <br> Department of Computer Science and Engineering
   <br> Aug. 2025 - Current
-- Researcher at [POSTECH](https://postech.ac.kr), <font size="3">Pohang, Korea</font> \\
+- Researcher at [POSTECH](https://postech.ac.kr), <font size="3">Pohang, Korea</font> \
   <br> Computer Vision Laboratory
   <br> Aug. 2018 - Feb. 2019
-- Lecturer at [Hanbat National University](https://hanbat.ac.kr), <font size="3">Daejeon, Korea</font> \\
+- Lecturer at [Hanbat National University](https://hanbat.ac.kr), <font size="3">Daejeon, Korea</font> \
   <br> Department of Computer Engineering
   <br> Mar. 2018 - Feb. 2019
-- Developer at SIMNET, Daejeon, Korea \\
+- Developer at SIMNET, <font size="3">Daejeon, Korea</font> \
   <br> Feb. 2015 - Feb. 2018
 
 ## Education
@@ -104,6 +104,7 @@ Minkyo Seo, <u>Dongkeun Kim</u>, Kyungmoon Lee, Seunghoon Hong, Jae Seok Bae, Ju
 ## Academic Services
 - **Conference Reviewer**: CVPR 2024-2025, ECCV 2024, ICCV 2023-2025, WACV 2022-2025, ACCV 2022-2024, ACMMM 2025
 - **Journal Reviewer**: Image and Vision Computing, Transactions on Multimedia, Pattern Recognition Letters
+
 
 
 
