@@ -21,6 +21,23 @@ My primary research interest is in computer vision especially group activity rec
 [Jan. 2023] I won BK21 outstanding paper award. \
 [Mar. 2022] One paper is accepted in **CVPR 2022**.
 
+
+## Work Experience
+- Postdoctoral researcher at [Pohang University of Science and Technology (POSTECH)](https://postech.ac.kr), Pohang, Korea \\
+  <br>Graduate School of AI
+  <br>Aug. 2025 - Current
+- Lecturer for future scholars at [Pohang University of Science and Technology (POSTECH)](https://postech.ac.kr), Pohang, Korea \\
+  <br>Department of Computer Science and Engineering
+  <br>Aug. 2025 - Current
+- Researcher at [Pohang University of Science and Technology (POSTECH)](https://postech.ac.kr), Pohang, Korea \\
+  <br>Computer Vision Laboratory
+  <br>Aug. 2018 - Feb. 2019
+- Lecturer at [Hanbat National University](https://hanbat.ac.kr), Daejeon, Korea \\
+  <br>Department of Computer Engineering
+  <br>Mar. 2018 - Feb. 2019
+- Developer at SIMNET, Daejeon, Korea \\
+  <br>Feb. 2015 - Feb. 2018
+
 ## Education
 - [Pohang University of Science and Technology (POSTECH)](https://postech.ac.kr) <font size="3">Pohang, Korea, Feb. 2019 - Aug. 2025</font>
 <br>Ph.D. student in Computer Science and Engineering
@@ -84,11 +101,6 @@ Minkyo Seo, <u>Dongkeun Kim</u>, Kyungmoon Lee, Seunghoon Hong, Jae Seok Bae, Ju
 ## Academic Services
 - **Conference Reviewer**: CVPR 2024-2025, ECCV 2024, ICCV 2023-2025, WACV 2022-2025, ACCV 2022-2024, ACMMM 2025
 - **Journal Reviewer**: Image and Vision Computing, Transactions on Multimedia, Pattern Recognition Letters
-
-
-## Work Experiences
-- **Hanbat National University** Lecturer, Daejeon, Korea (Mar. 2018 - Dec. 2018)
-- **SIMNET** Developer, Daejeon, Korea (Feb. 2015 - Feb. 2018)
 
 
 
