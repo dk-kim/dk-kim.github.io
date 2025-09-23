@@ -23,43 +23,46 @@ My primary research interest is in computer vision especially group activity rec
 
 
 ## Work Experience
-- Postdoctoral researcher at [Pohang University of Science and Technology (POSTECH)](https://postech.ac.kr), Pohang, Korea \\
-  <br>Graduate School of AI
-  <br>Aug. 2025 - Current
-- Lecturer for future scholars at [Pohang University of Science and Technology (POSTECH)](https://postech.ac.kr), Pohang, Korea \\
-  <br>Department of Computer Science and Engineering
-  <br>Aug. 2025 - Current
-- Researcher at [Pohang University of Science and Technology (POSTECH)](https://postech.ac.kr), Pohang, Korea \\
-  <br>Computer Vision Laboratory
-  <br>Aug. 2018 - Feb. 2019
-- Lecturer at [Hanbat National University](https://hanbat.ac.kr), Daejeon, Korea \\
-  <br>Department of Computer Engineering
-  <br>Mar. 2018 - Feb. 2019
+- Postdoctoral researcher at [POSTECH](https://postech.ac.kr), <font size="3">Pohang, Korea</font> \\
+  <br> Graduate School of AI
+  <br> Aug. 2025 - Current
+- Lecturer for future scholars at [POSTECH](https://postech.ac.kr), <font size="3">Pohang, Korea</font> \\
+  <br> Department of Computer Science and Engineering
+  <br> Aug. 2025 - Current
+- Researcher at [POSTECH](https://postech.ac.kr), <font size="3">Pohang, Korea</font> \\
+  <br> Computer Vision Laboratory
+  <br> Aug. 2018 - Feb. 2019
+- Lecturer at [Hanbat National University](https://hanbat.ac.kr), <font size="3">Daejeon, Korea</font> \\
+  <br> Department of Computer Engineering
+  <br> Mar. 2018 - Feb. 2019
 - Developer at SIMNET, Daejeon, Korea \\
-  <br>Feb. 2015 - Feb. 2018
+  <br> Feb. 2015 - Feb. 2018
 
 ## Education
-- [Pohang University of Science and Technology (POSTECH)](https://postech.ac.kr) <font size="3">Pohang, Korea, Feb. 2019 - Aug. 2025</font>
-<br>Ph.D. student in Computer Science and Engineering
-<br>Advisor: Professor <a href="https://cvlab.postech.ac.kr/~suhakwak">Suha Kwak</a>
-<br>GPA: 4.0/4.3
+- [Pohang University of Science and Technology (POSTECH)](https://postech.ac.kr) <font size="3">Pohang, Korea</font>
+<br> Ph.D. student in Computer Science and Engineering
+<br> Advisor: Professor <a href="https://cvlab.postech.ac.kr/~suhakwak">Suha Kwak</a>
+<br> GPA: 4.0/4.3
+<br> Feb. 2019 - Aug. 2025
 
-- [Carnegie Mellon University (CMU)](https://www.cmu.edu/) <font size="3">Pittsburgh, PA, USA, Aug. 2019 - Feb. 2020</font>
-<br>Visiting student in Language Technologies Institute
-<br>IITP (Institute of Information & Communications Technology Planning & Evaluation) Executive Education Program
+- [Carnegie Mellon University (CMU)](https://www.cmu.edu/) <font size="3">Pittsburgh, PA, USA</font>
+<br> Visiting student in Language Technologies Institute
+<br> IITP (Institute of Information & Communications Technology Planning & Evaluation) Executive Education Program
+<br> Aug. 2019 - Feb. 2020
 
 
-- [Korea Advanced Institute of Science and Technology (KAIST)](https://www.kaist.ac.kr/en/) <font size="3">Daejeon, Korea, Mar. 2013 - Feb. 2015</font>
+- [Korea Advanced Institute of Science and Technology (KAIST)](https://www.kaist.ac.kr/en/) <font size="3">Daejeon, Korea</font>
 <br> M.S. student in Industrial & Systems Engineering 
 <br> Advisor: Professor Kyung Chul Chae 
 <br> GPA: 3.74/4.3 (93.77/100)
+<br> Mar. 2013 - Feb. 2015
 
 
-- [Korea Advanced Institute of Science and Technology (KAIST)](https://www.kaist.ac.kr/en/) <font size="3">Daejeon, Korea, Feb. 2008 - Feb. 2013 </font>
+- [Korea Advanced Institute of Science and Technology (KAIST)](https://www.kaist.ac.kr/en/) <font size="3">Daejeon, Korea</font>
 <br> B.S. in Biological Science 
 <br> B.S. in Industrial & Systems Engineering 
 <br> GPA: 3.64/4.3 (92.66/100)
-
+<br> Feb. 2008 - Feb. 2013
 
 ## Publications
 - **Part-Aware Bottom-Up Group Reasoning for Fine-Grained Social Interaction Detection** \\
@@ -101,6 +104,7 @@ Minkyo Seo, <u>Dongkeun Kim</u>, Kyungmoon Lee, Seunghoon Hong, Jae Seok Bae, Ju
 ## Academic Services
 - **Conference Reviewer**: CVPR 2024-2025, ECCV 2024, ICCV 2023-2025, WACV 2022-2025, ACCV 2022-2024, ACMMM 2025
 - **Journal Reviewer**: Image and Vision Computing, Transactions on Multimedia, Pattern Recognition Letters
+
 
 
 
