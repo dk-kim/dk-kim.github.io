@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Dongkeun Kim"
 title_separator          : "-"
 name                     : &name "Dongkeun Kim"
-description              : &description "Ph.D. student at POSTECH"
+description              : &description "Postdoctoral researcher at POSTECH"
 url                      : https://dk-kim.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "github.com/dk-kim"
@@ -115,7 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  cv               : "files/CV_Dongkeun_Kim_240924.pdf"
+  cv               : "files/CV_Dongkeun_Kim_250924.pdf"
 
 
 # Reading Files
