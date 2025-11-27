@@ -66,8 +66,8 @@ My primary research interest is in computer vision especially group activity rec
 
 ## Publications
 - **Part-Aware Bottom-Up Group Reasoning for Fine-Grained Social Interaction Detection** \\
-<a href="https://arxiv.org/abs/2408.02957" style="color: #7289da; text-decoration: none;">[Paper]</a>
-<a href="https://cvlab.postech.ac.kr/research/PABU/" style="color: #7289da; text-decoration: none;">[Project Page]</a>
+<a href="https://arxiv.org/abs/2511.03666" style="color: #7289da; text-decoration: none;">[Paper]</a>
+<a href="https://cvlab.postech.ac.kr/research/PABU/" style="color: #7289da; text-decoration: none;">[Project Page]</a> \\
 <u>Dongkeun Kim</u>, Minsu Cho, Suha Kwak \\
 <span style="color:darkred">**NeurIPS**</span> 2025 (acceptance = 5290 / 21575 = 24.52%) 
 
@@ -106,6 +106,7 @@ Minkyo Seo, <u>Dongkeun Kim</u>, Kyungmoon Lee, Seunghoon Hong, Jae Seok Bae, Ju
 ## Academic Services
 - **Conference Reviewer**: CVPR 2024-2025, ECCV 2024, ICCV 2023-2025, WACV 2022-2025, ACCV 2022-2024, ACMMM 2025
 - **Journal Reviewer**: Image and Vision Computing, Transactions on Multimedia, Pattern Recognition Letters
+
 
 
 
