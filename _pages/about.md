@@ -104,8 +104,9 @@ Minkyo Seo, <u>Dongkeun Kim</u>, Kyungmoon Lee, Seunghoon Hong, Jae Seok Bae, Ju
 
 
 ## Academic Services
-- **Conference Reviewer**: CVPR 2024-2025, ECCV 2024, ICCV 2023-2025, WACV 2022-2025, ACCV 2022-2024, ACMMM 2025
-- **Journal Reviewer**: Image and Vision Computing, Transactions on Multimedia, Pattern Recognition Letters
+- **Conference Reviewer**: CVPR 2024-2026, ECCV 2024, ICCV 2023-2025, WACV 2022-2025, ACCV 2022-2024, ACMMM 2025
+- **Journal Reviewer**: International Journal of Computer Vision (IJCV), Image and Vision Computing, Transactions on Multimedia, Pattern Recognition Letters (PRL)
+
 
 
 
