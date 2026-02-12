@@ -65,6 +65,12 @@ My primary research interest is in computer vision especially group activity rec
 <br> Feb. 2008 - Feb. 2013
 
 ## Publications
+- **Event-centric Video Chain-of-thought for Reasoning Temporal Localization** \\
+<!-- <a href="https://arxiv.org/abs/2511.03666" style="color: #7289da; text-decoration: none;">[Paper]</a> -->
+<!-- <a href="https://cvlab.postech.ac.kr/research/PABU/" style="color: #7289da; text-decoration: none;">[Project Page]</a> \\ -->
+Youngkil Song, Yoonjae Baek, Dongwon Kim, Inho Kim, <u>Dongkeun Kim*</u>, Suha Kwak* \\
+<span style="color:darkred">**IPIU**</span> 2026 
+
 - **Part-Aware Bottom-Up Group Reasoning for Fine-Grained Social Interaction Detection** \\
 <a href="https://arxiv.org/abs/2511.03666" style="color: #7289da; text-decoration: none;">[Paper]</a>
 <a href="https://cvlab.postech.ac.kr/research/PABU/" style="color: #7289da; text-decoration: none;">[Project Page]</a> \\
@@ -99,6 +105,7 @@ Minkyo Seo, <u>Dongkeun Kim</u>, Kyungmoon Lee, Seunghoon Hong, Jae Seok Bae, Ju
 
 
 ## Honors & Awards
+- **IPIU Best paper award, Gold Prize** (2026)
 - **BK21 outstanding paper award** (2023)
 - **National Scholarship for Science and Engineering** KOSAF (2008 - 2011, 2013 - 2014)
 
