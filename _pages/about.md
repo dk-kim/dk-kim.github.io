@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral researcher in the Graduate School of AI at POSTECH. 
-I am a member of [Computer Vision Lab](https://cvlab.postech.ac.kr) 
-under the supervision of professor [Suha Kwak](http://cvlab.postech.ac.kr/~suhakwak).
-My primary research interest is in computer vision especially group activity recognition, robotics and its applications. 
+I am an assistant professor in the School of Artificial Intelligence, Computer and Electrical Engineering at Handong Global University. 
+<!-- I am a member of [Computer Vision Lab](https://cvlab.postech.ac.kr) under the supervision of professor [Suha Kwak](http://cvlab.postech.ac.kr/~suhakwak).-->
+My primary research interest is in computer vision especially group activity understanding, robotics and its applications. 
 
 ## News
+[Mar. 2026] I have joined Handong Global University as an **Assistant Professor**. \
 [Sep. 2025] One paper is accepted in **NeurIPS 2025**. \
 [Aug. 2025] I have started a new position as a **Postdoctoral researcher** at POSTECH Graduate School of AI. \
 [June. 2025] I am glad to announce that I successfully defended my **Ph.D. dissertation**, "Compositional Reasoning Approaches to Group Activity Understanding". \
@@ -23,9 +23,12 @@ My primary research interest is in computer vision especially group activity rec
 
 
 ## Work Experience
+- Assistant Professor at [Handong Global University](https://handong.edu), <font size="3">Pohang, Korea</font>
+  <br> School of AI, Computer and Electrical Engineering
+  <br> Mar. 2026 - Current
 - Postdoctoral researcher at [POSTECH](https://postech.ac.kr), <font size="3">Pohang, Korea</font>
   <br> Graduate School of AI
-  <br> Aug. 2025 - Current
+  <br> Aug. 2025 - Feb. 2026
 - Lecturer for future scholars at [POSTECH](https://postech.ac.kr), <font size="3">Pohang, Korea</font>
   <br> Department of Computer Science and Engineering
   <br> Aug. 2025 - Current
@@ -111,7 +114,7 @@ Minkyo Seo, <u>Dongkeun Kim</u>, Kyungmoon Lee, Seunghoon Hong, Jae Seok Bae, Ju
 
 
 ## Academic Services
-- **Conference Reviewer**: CVPR 2024-2026, ECCV 2024, ICCV 2023-2025, WACV 2022-2025, ACCV 2022-2024, ACMMM 2025
+- **Conference Reviewer**: CVPR 2024-2026, ECCV 2024-2026, ICCV 2023-2025, WACV 2022-2025, ACCV 2022-2024, ACMMM 2025
 - **Journal Reviewer**: International Journal of Computer Vision (IJCV), Image and Vision Computing, Transactions on Multimedia, Pattern Recognition Letters (PRL)
 
 
