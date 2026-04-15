@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Dongkeun Kim"
   avatar           : "dongkeunkim_250828.jpg"
-  bio              : "Ph.D. student at Pohang University of Science and Technology (POSTECH), Department of Computer Science and Engineering"
+  bio              : "Assitant Professor at Handong Global University (HGU), School of AI, Computer and Electrical Engineering"
   location         : "Pohang, South Korea"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=y6y1TlAAAAAJ&hl=ko"
-  email            : "kdk1563@postech.ac.kr"
+  email            : "dongkeun@handong.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
