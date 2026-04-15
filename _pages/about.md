@@ -13,7 +13,7 @@ I am an assistant professor in the School of Artificial Intelligence, Computer a
 My primary research interest is in computer vision especially group activity understanding, robotics and its applications. 
 
 ## News
-[Mar. 2026] I have joined Handong Global University as an **Assistant Professor**. \
+[Mar. 2026] I have joined **Handong Global University** as an **Assistant Professor**. \
 [Sep. 2025] One paper is accepted in **NeurIPS 2025**. \
 [Aug. 2025] I have started a new position as a **Postdoctoral researcher** at POSTECH Graduate School of AI. \
 [June. 2025] I am glad to announce that I successfully defended my **Ph.D. dissertation**, "Compositional Reasoning Approaches to Group Activity Understanding". \
